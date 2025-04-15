@@ -15,7 +15,7 @@ A deep learning-based video frame interpolation system that uses GANs to generat
 Clone the repository:
 
 ```bash
-https://github.com/Dhandeep10/vfi-gan.git
+git clone https://github.com/Dhandeep10/vfi-gan.git
 cd frame-interpolation-gan
 ```
 
